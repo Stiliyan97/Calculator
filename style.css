@@ -1,0 +1,26 @@
+body{
+	background-color: gray;
+}
+.form-control-lg{
+	border: none;
+	border-radius: 0px;
+	border-bottom: 1px solid black;
+	font-size:60px;
+}
+.container{
+	margin-top: 10%;
+	padding: 0px;
+	background-color: teal;
+	border: 1px solid black;
+	box-shadow: 10px 10px 10px black;
+
+}
+.btn{
+	margin: 0px;
+	border:1px solid black;
+	border-radius: 0px;
+
+}
+.row{
+	margin:0px;
+}
