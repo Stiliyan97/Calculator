@@ -4,8 +4,11 @@ body{
 .form-control-lg{
 	border: none;
 	border-radius: 0px;
-	border-bottom: 1px solid black;
-	font-size:60px;
+	font-size:2rem;
+	font-weight: bold;
+}
+.form-control-lg:focus{
+	outline: none;
 }
 .container{
 	margin-top: 10%;
